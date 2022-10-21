@@ -61,13 +61,6 @@ object-assign
  */
 
 
-/*!
- * vuex v3.6.2
- * (c) 2021 Evan You
- * @license MIT
- */
-
-
 /**
   * vue-class-component v7.0.1
   * (c) 2015-present Evan You
@@ -76,10 +69,10 @@ object-assign
 
 
 /*!
-  * vue-router v3.5.4
-  * (c) 2022 Evan You
-  * @license MIT
-  */
+ * vuex v3.6.2
+ * (c) 2021 Evan You
+ * @license MIT
+ */
 
 
 /*!
@@ -137,11 +130,17 @@ object-assign
  */
 
 
-/**
-  * vue-class-component v7.0.1
-  * (c) 2015-present Evan You
+/*!
+  * vue-router v3.5.4
+  * (c) 2022 Evan You
   * @license MIT
   */
+
+/*!
+ * Vue.js v2.7.8
+ * (c) 2014-2022 Evan You
+ * Released under the MIT License.
+ */
 
 
 /**
